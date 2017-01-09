@@ -18,3 +18,4 @@ published: true
 * * *
 This page will be updated soon.
 [view my cv](another-page).
+[view my cv](contactme)
